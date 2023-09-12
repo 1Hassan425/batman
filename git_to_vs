@@ -7,3 +7,18 @@ this is the second change
 
 
 THIS IS A CHANGE I MADE ON GIT 
+
+
+to create a new repository 
+git init
+
+to add every change to the repository, use git add -a
+
+to to commit
+git commit -m"--"
+
+to push 
+git push
+
+to pull
+git pull
